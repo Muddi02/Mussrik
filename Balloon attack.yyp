@@ -12,6 +12,7 @@
   "defaultScriptType": 0,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemies","folderPath":"folders/Enemies.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
@@ -26,7 +27,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemies","folderPath":"folders/Enemies.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -62,6 +62,7 @@
     {"id":{"name":"Wood_Bridge","path":"sprites/Wood_Bridge/Wood_Bridge.yy",},},
     {"id":{"name":"Paths","path":"sprites/Paths/Paths.yy",},},
     {"id":{"name":"Free_Chicken_House","path":"sprites/Free_Chicken_House/Free_Chicken_House.yy",},},
+    {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"Grass","path":"sprites/Grass/Grass.yy",},},
     {"id":{"name":"spr_balloon_blue","path":"sprites/spr_balloon_blue/spr_balloon_blue.yy",},},
     {"id":{"name":"ts_Hills","path":"tilesets/ts_Hills/ts_Hills.yy",},},

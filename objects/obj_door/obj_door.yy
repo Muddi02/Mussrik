@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_balloon",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "name": "obj_door",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_balloon",
-    "path": "sprites/spr_balloon/spr_balloon.yy",
+    "name": "Wooden_House",
+    "path": "sprites/Wooden_House/Wooden_House.yy",
   },
   "spriteMaskId": null,
   "visible": true,

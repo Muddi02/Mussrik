@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings": [
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
+    {"name":"Enemies","order":17,"path":"folders/Enemies.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
@@ -15,7 +16,6 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Enemies","order":17,"path":"folders/Enemies.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Simple_Milk_and_grass_item","order":8,"path":"sprites/Simple_Milk_and_grass_item/Simple_Milk_and_grass_item.yy",},
@@ -41,6 +41,7 @@
     {"name":"Wood_Bridge","order":9,"path":"sprites/Wood_Bridge/Wood_Bridge.yy",},
     {"name":"Paths","order":12,"path":"sprites/Paths/Paths.yy",},
     {"name":"Free_Chicken_House","order":11,"path":"sprites/Free_Chicken_House/Free_Chicken_House.yy",},
+    {"name":"obj_door","order":4,"path":"objects/obj_door/obj_door.yy",},
     {"name":"Grass","order":2,"path":"sprites/Grass/Grass.yy",},
     {"name":"ts_Hills","order":1,"path":"tilesets/ts_Hills/ts_Hills.yy",},
     {"name":"Basic_Grass_Biom_things_1","order":6,"path":"sprites/Basic_Grass_Biom_things_1/Basic_Grass_Biom_things_1.yy",},
