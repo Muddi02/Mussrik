@@ -22,7 +22,7 @@
     {"name":"ts_Basic_Plants","order":5,"path":"tilesets/ts_Basic_Plants/ts_Basic_Plants.yy",},
     {"name":"Wooden_House","order":4,"path":"sprites/Wooden_House/Wooden_House.yy",},
     {"name":"Basic_Furniture","order":7,"path":"sprites/Basic_Furniture/Basic_Furniture.yy",},
-    {"name":"Sprite16","order":15,"path":"sprites/Sprite16/Sprite16.yy",},
+    {"name":"Monkey","order":15,"path":"sprites/Monkey/Monkey.yy",},
     {"name":"TileSet1","order":1,"path":"tilesets/TileSet1/TileSet1.yy",},
     {"name":"ts_Tiled_Dirt","order":2,"path":"tilesets/ts_Tiled_Dirt/ts_Tiled_Dirt.yy",},
     {"name":"Water","order":3,"path":"sprites/Water/Water.yy",},
