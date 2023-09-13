@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Monkey",
-  "bbox_bottom": 15,
+  "name": "Monkey17",
+  "bbox_bottom": 127,
   "bbox_left": 1,
-  "bbox_right": 14,
-  "bbox_top": 1,
+  "bbox_right": 127,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"95f1060a-d750-49b0-901f-9d48aa3d0df2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d3a8ec71-d094-4ded-abf8-fa099b61fd9a",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 16,
+  "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"81c91ec9-1826-417d-8c8e-58263d452be6","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ab07ed40-24b1-4cda-8064-5b3a067a9b12","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"95f1060a-d750-49b0-901f-9d48aa3d0df2","path":"sprites/Monkey/Monkey.yy",},},},"Disabled":false,"id":"c9e4a49c-efdb-41eb-b810-9ceda00c60ff","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d3a8ec71-d094-4ded-abf8-fa099b61fd9a","path":"sprites/Monkey17/Monkey17.yy",},},},"Disabled":false,"id":"5308159d-8a4f-4a96-8872-1648162aa96f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 16,
+  "width": 128,
 }

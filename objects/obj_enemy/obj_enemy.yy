@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_door",
-  "eventList": [],
+  "name": "obj_enemy",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Wooden_Door",
-    "path": "sprites/Wooden_Door/Wooden_Door.yy",
+    "name": "Monkey",
+    "path": "sprites/Monkey/Monkey.yy",
   },
   "spriteMaskId": null,
   "visible": true,
